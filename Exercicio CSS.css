@@ -1,6 +1,21 @@
+body{
+
+    background-color: grey;
+    color: white;
+}
+
 h1 {
-    color: red;
+    color: white;
     font-family: Arial, Arial, Helvetica, sans-serif;
-    font-size: 14px;
+    font-size: 28px;
+    text-align: center;
 
 }
+
+h2 {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic  ;
+
+}
+
